@@ -1,0 +1,4 @@
+psycopg[binary]
+gdown
+pandas
+matplotlib
